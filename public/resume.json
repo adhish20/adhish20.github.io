@@ -1,0 +1,422 @@
+{
+    "basics": {
+        "name": "Adhish Singla",
+        "label": "Software Developer",
+        "picture": "https://avatars0.githubusercontent.com/u/6043466?s=400&u=e52b15f7b7af71ab31def608fb1148e8fbb3c6fb&v=4",
+        "email": "adhish.singla@research.iiit.ac.in",
+        "phone": "(+91) 7799656779",
+        "website": "https://www.adhish20.github.io",
+        "summary": [
+            "Experienced Full Stack Software Developer with a demonstrated history of working in the research industry. Skilled in various Distributed Architectures. Strong research professional with a Master's Degree focused in Applications of Distributed Systems in Model Checking from International Institute of Information Technology, Hyderabad."
+        ],
+        "location": {
+            "address": "<ADDRESS>",
+            "postalCode": "<POSTAL_CODE>",
+            "city": "Hyderabad",
+            "countryCode": "India",
+            "region": "<REGION>"
+        },
+        "profiles": [
+            {
+                "network": "email",
+                "username": "adhish.singla@research.iiit.ac.in",
+                "url": "mailto:adhish.singla@research.iiit.ac.in"
+            },
+            {
+                "network": "github",
+                "username": "adhish20",
+                "url": "https://www.github.com/adhish20"
+            },
+            {
+                "network": "linkedin",
+                "username": "adhishsingla",
+                "url": "https://www.linkedin.com/in/adhishsingla/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Samsung Research Institute Bangalore",
+            "position": "Full Stack Developer Intern",
+            "website": "http://www.samsung.com/in/aboutsamsung/samsungelectronics/india/rnd/",
+            "startDate": "2017-05",
+            "endDate": "2017-07",
+            "summary": "Bangalore, India",
+            "highlights": [
+                "Developed a web-app for recording and updating LTE features.",
+                "FrontEnd : React, Redux",
+                "BackEnd : Spring, MongoDB"
+            ]
+        },
+        {
+            "company": "XMPP Standards Foundation",
+            "position": "Google Summer of Code",
+            "website": "http://www.xmpp-iot.org/",
+            "startDate": "2015-05",
+            "endDate": "2015-08",
+            "summary": "Remote Intern",
+            "highlights": [
+                "Implemented XMPP IoT Prtocols for Converse.Js.",
+                "Mobile Application for Sensoring and Controlling of Data sent or received.",
+                "API to store History of Sensor and Control Devices for SleekXMPP."
+            ]
+        },
+        {
+            "company": "Hitachi R&D",
+            "position": "Research Intern",
+            "website": "http://www.hitachi.co.in/about/hitachi/working_research_development_centre/",
+            "startDate": "2015-05",
+            "endDate": "2015-07",
+            "summary": "Bangalore, India",
+            "highlights": [
+                "Modeling Complex Systems/Algorithms using Promela Language.",
+                "Specifying their Safety/Liveness properties as LTL properties."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "International Institute of Information Technology",
+            "area": "B.Tech. & M.S. by Research",
+            "studyType": "<STUDY_TYPE>",
+            "startDate": "2014-08",
+            "endDate": "2018-05",
+            "gpa": "7.8/10",
+            "summary": "Hyderabad, India",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Research Award",
+            "date": "<DATE>",
+            "awarder": "Dean Academics, IIIT Hyderabad",
+            "summary": "<SUMMARY>"
+        }
+    ],
+    "projects": [
+        {
+            "name": "adhish20.github.io",
+            "publisher": "Adhish Singla",
+            "category": "Web",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://adhish20.github.io",
+            "summary": "adhish20.github.io is a static single-page application developed using React.js in pure functional code. It extends the Ceevee template designed by Styleshout, ported over to React.js, and follows the JSON Resume schema to store a Curriculum Vitae in JSON format.",
+            "image": {
+                "modal": "https://cdn.worldvectorlogo.com/logos/react.svg",
+                "thumb": "https://cdn.worldvectorlogo.com/logos/react.svg"
+            },
+            "keywords": [
+                "NODE.JS",
+                "REACT.JS"
+            ]
+        },
+        {
+            "name": "Ultimate Tic Tac Toe",
+            "publisher": "Adhish Singla",
+            "category": "Artificial Intelligence",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://github.com/adhish20/AI-for-Ultimate-Tic-Tac-Toe",
+            "summary": "Implemented an Automated AI based Player for modified Ultimate Tic Toe using Greedy Heuristic based Alpha Beta Pruning with Depth Optimization.",
+            "image": {
+                "modal": "http://cdn.edgecast.steamstatic.com/steam/apps/360870/ss_be35973bd6ec3f6edd5cd20626aa5b225b66245b.1920x1080.jpg?t=1453709526",
+                "thumb": "http://cdn.edgecast.steamstatic.com/steam/apps/360870/ss_be35973bd6ec3f6edd5cd20626aa5b225b66245b.1920x1080.jpg?t=1453709526"
+            },
+            "keywords": [
+                "Python",
+                "alpha-beta Pruning"
+            ]
+        },
+        {
+            "name": "Cloud Orchestration Layer",
+            "publisher": "Adhish Singla",
+            "category": "Cloud Computing",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://github.com/adhish20/CloudOrchestrationLayer",
+            "summary": "Implemented an orchestration of Compute and Storage API which would be provided based on the requirement of the user.",
+            "image": {
+                "modal": "https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1704417/5067/3758/m1/fpnw/wm1/cloud-computing-new-2-converted-conerted-.jpg?1475049686&s=4243d75bed8413b48fc26a1310607265",
+                "thumb": "https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1704417/5067/3758/m1/fpnw/wm1/cloud-computing-new-2-converted-conerted-.jpg?1475049686&s=4243d75bed8413b48fc26a1310607265"
+            },
+            "keywords": [
+                "Flask",
+                "QEMU"
+            ]
+        },
+        {
+            "name": "Decaf Compiler",
+            "publisher": "Adhish Singla",
+            "category": "Compilers",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://github.com/adhish20/Decaf-Compiler",
+            "summary": "Implemented a front-end compiler for a subset of the C language. Used flex(for tokens), bison(for grammar) and LLVM(intermediate representation).",
+            "image": {
+                "modal": "https://community.thunkable.com/uploads/default/original/2X/d/d737b04653fc41453b26051f47907c47a491697b.png",
+                "thumb": "https://community.thunkable.com/uploads/default/original/2X/d/d737b04653fc41453b26051f47907c47a491697b.png"
+            },
+            "keywords": [
+                "C++",
+                "Flex",
+                "Bison",
+                "LLVM"
+            ]
+        },
+        {
+            "name": "MapReduce Framework",
+            "publisher": "Adhish Singla",
+            "category": "Distributed Systems",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "https://github.com/adhish20/HDFS",
+            "summary": "Implemented a Hadoop-like Map Reduce System, with JobTracker, TaskTracker and Client, along with a fault tolerant distributed file system and deployed on EC2.",
+            "image": {
+                "modal": "https://www.kullabs.com/img/note_images/Knqp7I8LmstsCdZq.png",
+                "thumb": "https://www.kullabs.com/img/note_images/Knqp7I8LmstsCdZq.png"
+            },
+            "keywords": [
+                "RMI",
+                "Protobuf",
+                "AWS"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "description": [
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "C/C++",
+                    "level": 95,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Java",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Scripting",
+            "description": [
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "Python",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Shell",
+                    "level": 80,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "JavaScript",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Web Technologies",
+            "description": [
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "HTML",
+                    "level": 95,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "CSS",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "React",
+                    "level": 95,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Redux",
+                    "level": 95,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Express",
+                    "level": 85,
+                    "keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Database Systems",
+            "description": [
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "MySQL",
+                    "level": 85,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "MongoDB",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Apache Gora",
+                    "level": 85,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Hive",
+                    "level": 85,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "HBase",
+                    "level": 85,
+                    "keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tools/Libraries",
+            "description": [
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "AWS(EMR, EC2, S3)",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Hadoop",
+                    "level": 90,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Giraph",
+                    "level": 95,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "OpenGL",
+                    "level": 75,
+                    "keywords": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Operating Systems",
+            "description": [
+                ""
+            ],
+            "skillDetails": [
+                {
+                    "name": "Linux",
+                    "level": 85,
+                    "keywords": [
+                        ""
+                    ]
+                },
+                {
+                    "name": "Windows",
+                    "level": 80,
+                    "keywords": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "<LANGUAGE_NAME>",
+            "level": "<LANGUAGE_LEVEL>"
+        }
+    ],
+    "interests": [
+        {
+            "name": "<INTEREST_NAME>",
+            "keywords": [
+                "<KEYWORD_1>",
+                "<KEYWORD_2>",
+                "<KEYWORD_3>"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Joachim Lindborg",
+            "position": "GSOC Mentor for XMPP Standards Foundation | CTO",
+            "company": "Sustainable Innovation AB",
+            "reference": "During the summer of 2015 I mentored Adhish in his participation in the Google Summer of Code. He did a very good implementation starting from no experience in XMPP and with two completely new development environments. He created very useful tools that can be used by many in the future.It has been a pleasure working with Adhish. He always is quick and sharp in response and devoted to solve problems. He works very well under pressure, I'm delighted to recommend Adhish to other assignments."
+        }
+    ]
+}

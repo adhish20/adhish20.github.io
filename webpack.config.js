@@ -14,7 +14,7 @@ function getConfig() {
         ],
 
         output: {
-            path: path.join(__dirname, 'static'),
+            path: path.join(__dirname, 'public'),
             filename: 'bundle.js'
         },
 

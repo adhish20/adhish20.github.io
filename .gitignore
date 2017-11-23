@@ -54,11 +54,3 @@ jspm_packages
 
 # Mac-specific file
 .DS_Store
-
-# ------------------------------------------------------------------------------
-# CUSTOM
-# ------------------------------------------------------------------------------
-public/images/portfolio
-resume.json
-bundle.js
-bundle.js.map
