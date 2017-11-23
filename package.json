@@ -1,21 +1,18 @@
 {
-  "name": "suddi.github.io",
+  "name": "adhish20.github.io",
   "private": true,
-  "description": "Sudharshan Ravindran personal site",
+  "description": "Adhish Singla personal site",
   "version": "1.2.2",
-  "homepage": "https://suddi.github.io",
+  "homepage": "https://adhish20.github.io",
   "author": {
-    "name": "Sudharshan Ravindran",
-    "email": "suddi@mail.io",
-    "url": "https://suddi.github.io"
+    "name": "Adhish Singla",
+    "email": "adhisingla94@gmail.com",
+    "url": "https://adhish20.github.io"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suddi/suddi.github.io"
-  },
-  "bugs": {
-    "url": "https://github.com/suddi/suddi.github.io/issues"
-  },
+    "url": "https://github.com/adhish20/adhish20.github.io"
+},
   "licenses": [
     {
       "type": "Apache-2.0",
